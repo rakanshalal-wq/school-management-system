@@ -3,7 +3,10 @@ A Python educational project for managing school classes and students using a GU
 
 
 ---
-
+## How to Run
+- Make sure Python 3.10+ is installed
+- Run:
+  python school_manager.py
 ## Project Structure
 
 - `school_manager.py`  
@@ -32,3 +35,6 @@ A Python educational project for managing school classes and students using a GU
 - نسختان من المشروع:
   - نسخة تشغيلية
   - نسخة تعليمية مشروحة سطرًا بسطر
+
+
+Developed by Rakan Shalal 🇸🇦
